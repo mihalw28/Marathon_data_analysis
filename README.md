@@ -6,8 +6,8 @@ This small repo contains 2 jupyter notebooks :notebook_with_decorative_cover:  w
 There is one notebook with scrapping and next one with basic visualisations.
 
 ### List of notebooks:
-* Scrapping and preprocessing [link](https://github.com/mihalw28/Marathon_data_analysis/blob/master/Scrap_and_clean.ipynb) 
-* EDA / Visualising [link](https://github.com/mihalw28/Marathon_data_analysis/blob/master/Analyze_via_vis.ipynb)
+* Scrapping and preprocessing - open on [GitHub](https://github.com/mihalw28/Marathon_data_analysis/blob/master/Scrap_and_clean.ipynb) 
+* EDA / Visualising - open on [GithHub](https://github.com/mihalw28/Marathon_data_analysis/blob/master/Analyze_via_vis.ipynb), open using [nbviewer](https://nbviewer.jupyter.org/github/mihalw28/Marathon_data_analysis/blob/master/Analyze_via_vis.ipynb)
 
 ### Made with:
 * [PLOTLY](https://plot.ly/d3-js-for-python-and-pandas-charts/)
