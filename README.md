@@ -18,4 +18,4 @@ There is one notebook with scrapping and next one with basic visualisations.
 * [Poznań Maraton wyniki](http://live.sts-timing.pl/mp2018/) :newspaper:
 
 ### License:
-MIT ©  [mihalw28](https:/twitter.com/mihalw28) :PL:
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) [mihalw28](https:/twitter.com/mihalw28) :PL:
