@@ -1,7 +1,7 @@
 ## Marathon_data_analysis
 This repo contains Poznan Marathon 2018 results analysis and visualisations. :running: :v:
 
-# General info
+### General info
 This small repo contains 2 jupyter notebooks :notebook_with_decorative_cover:  with analysis of Poznan Maraton 2018 results. List of notebooks is below.
 There is one notebook with scrapping and next one with basic visualisations.
 
@@ -18,4 +18,4 @@ There is one notebook with scrapping and next one with basic visualisations.
 * [Poznań Maraton wyniki](http://live.sts-timing.pl/mp2018/) :newspaper:
 
 ### License:
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) [mihalw28](https:/twitter.com/mihalw28) :PL:
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=%20%40mihalw28)](https://twitter.com/mihalw28)
